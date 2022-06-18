@@ -1,0 +1,38 @@
+id: I5034A4D4
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T22:29:08.105599'
+last_modified: '2022-06-18T22:29:08.106295'
+parser: null
+source_metadata:
+  title: Gong dkar Phrin las rnam rgyals Record of Teachings Received
+  author: གོང་དཀར་འཕྲིན་ལས་རྣམ་རྒྱལ།
+  description: 'Digital version 3.0 {Tibetan}; master xml (completed: 2017-10-27);
+    converted from external file, revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was initially inputted by Saṃ
+    bho ṃa''i dbon brgyud dpe tshogs (Digital Text version/id: 1.doc, 2.doc, 3.doc).
+    (src)'
+  - Text input:སཾ་བྷོ་ཊའི་དབོན་བརྒྱུད་དཔེ་ཚོགས།
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/444
+  bases:
+    de0a:
+      title: Gong dkar Phrin las rnam rgyals Record of Teachings Received
+      order: 1
+      base_file: de0a.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
